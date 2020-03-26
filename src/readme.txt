@@ -1,0 +1,1 @@
+Write a java program to convert a decimal number into binary using bitwise operators.
